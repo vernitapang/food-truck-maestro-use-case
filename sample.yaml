@@ -1,0 +1,4 @@
+appId: com.example.apple-samplecode.Food-TruckNJ3L4J9D8G
+---
+- launchApp
+- tapOn: "New Orders"
